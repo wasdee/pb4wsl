@@ -1,4 +1,12 @@
 #! /bin/bash
 # pbcopy script
+
+VERSION="0.0.1"
+
+if [ "$1" = "--version" ]; then
+  echo "pbcopy version $VERSION"
+  exit 0
+fi
+
 tee <&0 | clip.exe
 exit 0

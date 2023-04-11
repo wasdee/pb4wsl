@@ -1,5 +1,8 @@
 default:
     echo 'Hello, world!'
 
+
+
 shasum:
-    shasum -a 256 <path/to/tarball>
+    wget https://github.com/wasdee/pb4wsl/archive/refs/tags/v0.0.1.tar.gz
+    shasum -a 256 v0.0.1.tar.gz

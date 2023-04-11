@@ -1,4 +1,12 @@
 #!/bin/bash
 # pbpaste script
+
+VERSION="0.0.1"
+
+if [ "$1" = "--version" ]; then
+  echo "pbpaste version $VERSION"
+  exit 0
+fi
+
 powershell.exe Get-Clipboard | sed 's/\r$//' | sed -z '$ s/\n$//'
 exit 0
