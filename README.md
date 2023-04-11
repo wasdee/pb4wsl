@@ -19,6 +19,11 @@ brew install wasdee/pb4wsl/pb4wsl
 ## 📖 Documentation
 For more information on using Homebrew, run `brew help`, `man brew`, or check [Homebrew's documentation](https://docs.brew.sh/).
 
+## 📚 Examples
+
+Here are some examples of using `pbcopy` and `pbpaste`:
+
+
 1. Copy the contents of a file to the clipboard:
 ```sh
 cat file.txt | pbcopy
