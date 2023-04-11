@@ -3,9 +3,9 @@
 
 ## How do I install these formulae?
 
-`brew install wasdee/pb4wsl/<formula>`
+`brew install wasdee/pb4wsl/pb4wsl`
 
-Or `brew tap wasdee/pb4wsl` and then `brew install <formula>`.
+Or `brew tap wasdee/pb4wsl` and then `brew install wasdee/pb4wsl/pb4wsl`.
 
 ## Documentation
 
