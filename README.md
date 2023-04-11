@@ -1,6 +1,8 @@
 # 📋 pb4wsl
 Enable you to use your familiar `pbcopy` and `pbpaste` on WSL2 🖥️
 
+![an art cover for pb4wsl](Assets/pb4wsl.png)
+
 ## ❓ What is this?
 Normally, `pbcopy` and `pbpaste` are only available on macOS. This is a Linuxbrew formula to install `pbcopy` and `pbpaste` for WSL2, bringing these handy commands to your Windows Subsystem for Linux environment.
 
