@@ -2,7 +2,7 @@ class PbcopyPbpaste < Formula
     desc "`pbcopy` and `pbpaste` for wsl2"
     homepage "https://github.com/wasdee/pb4wsl"
     url "https://github.com/wasdee/pb4wsl/archive/refs/tags/v0.0.2.tar.gz"
-    sha256 "52029b3438adf759e00e5a1bc303063b8abfe630aeaf2f57bd61f907c78acb76"
+    sha256 "de64644fb2844f5c127b8a26edb5fc5051e2c711f482c92dd4345cbab7a0e56e"
     license "MIT"
   
     def install
