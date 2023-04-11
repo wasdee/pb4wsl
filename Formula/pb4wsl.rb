@@ -1,4 +1,4 @@
-class PbcopyPbpaste < Formula
+class Pb4wsl < Formula
     desc "`pbcopy` and `pbpaste` for wsl2"
     homepage "https://github.com/wasdee/pb4wsl"
     url "https://github.com/wasdee/pb4wsl/archive/refs/tags/v0.0.2.tar.gz"
